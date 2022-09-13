@@ -1,3 +1,7 @@
+/* 1.ino
+ * Semaphore simulation with three leds.
+ */
+
 // Maps pins to variables.
 int redLed = 12;
 int yellowLed = 10;
